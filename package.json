@@ -1,0 +1,27 @@
+{
+  "name": "hello-nodemailer",
+  "version": "1.0.0",
+  "description": "Find a new node package assignment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HIROSN/hello-nodemailer.git"
+  },
+  "author": "hirosn@live.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HIROSN/hello-nodemailer/issues"
+  },
+  "homepage": "https://github.com/HIROSN/hello-nodemailer",
+  "dependencies": {
+    "nodemailer": "^1.3.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-jscs": "^0.8.1"
+  }
+}
