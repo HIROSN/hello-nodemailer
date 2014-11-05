@@ -1,4 +1,5 @@
 # nodemailer
+<img src="https://travis-ci.org/HIROSN/hello-nodemailer.svg" alt="Travis CI Badge"></img>
 
 Hello world app using direct transport:
 https://www.npmjs.org/package/nodemailer
